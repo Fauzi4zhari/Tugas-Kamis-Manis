@@ -1,0 +1,25 @@
+program faktorial;
+uses crt;
+var
+i,n,f : integer;
+
+begin
+                writeln('Nama     : Fauzi Azhari             ');
+                writeln('Fakultas : Teknologi Informasi   ');
+                writeln('Prodi    : Informatika           ');
+                writeln('Tugas    : BAB 3                 ');
+                writeln(' ');
+                writeln('********** PROGRAM FAKTORIAL **********');
+                writeln(' ');
+      write('Masukan Nilai n : '); readln(n);
+  f := 1;
+  for i := 1 to n do
+begin
+  f := f*i
+    end;
+                writeln(' ');
+                writeln(n,' faktorial = ', f);
+                writeln(' ');
+                writeln('*********** Alhamdulillah Beres ***********');
+readkey;
+    end.

@@ -1,0 +1,4 @@
+Jadi di modul pascal tugas 3 nomor 1
+menampilkan hasil dari penggunaan while do dengan cara membalikan urutan nilai yang ada
+contohnya. nilai 2345
+dibalik menjadi 5432 
